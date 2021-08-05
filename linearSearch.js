@@ -11,5 +11,5 @@ function linearSearch(arr, item) {
     return null
 }
 
-console.log(linearSearch(array, 40));
+console.log(linearSearch(array, 21));
 console.log(`Iteration count: ${iterationCount}`)
